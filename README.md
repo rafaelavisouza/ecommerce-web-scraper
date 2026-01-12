@@ -22,5 +22,8 @@ A Python automation script designed to extract product data (title, price, ratin
    ```bash
    git clone [https://github.com/seu-usuario/ecommerce-scraper.git](https://github.com/seu-usuario/ecommerce-scraper.git)
 
+## On Site
 <img width="949" height="917" alt="image" src="https://github.com/user-attachments/assets/1893a57f-5a45-4a5c-91dd-541d2442a3fb" />
+
+## After
 <img width="809" height="446" alt="image" src="https://github.com/user-attachments/assets/7c872b94-7750-4ea8-9978-3657aed7600f" />
